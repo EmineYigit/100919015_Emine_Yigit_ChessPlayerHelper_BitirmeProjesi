@@ -76,8 +76,9 @@ Fiziksel tahta üzerinden dijital analiz yapmak
 
 Yapay zekâ destekli eğitim ortamı sunmak
 
-📷 Görseller (Ekran Görüntüleri)
-(Buraya GUI'den alınacak bir ekran görüntüsü ekleyebilirsiniz.)
+📷 Görseller 
+
+![2](https://github.com/user-attachments/assets/7914d38f-4c9a-4e66-9605-97bd087f7689)
 
 
 
