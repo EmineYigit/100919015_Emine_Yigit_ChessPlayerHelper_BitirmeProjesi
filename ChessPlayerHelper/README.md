@@ -81,11 +81,10 @@ Yapay zekâ destekli eğitim ortamı sunmak
 ![2](https://github.com/user-attachments/assets/7914d38f-4c9a-4e66-9605-97bd087f7689)
 
 
-
-📌 Geliştirici: Aslı Cennet ERCAN
+📌 Geliştirici: Emine YİĞİT
 🎓 Üniversite: Marmara Üniversitesi 
 
-📌 Geliştirici: Emine YİĞİT
+📌 Geliştirici: Aslı Cennet ERCAN
 🎓 Üniversite: Marmara Üniversitesi 
 
 📌 Geliştirici: Yusuf DOĞAN
